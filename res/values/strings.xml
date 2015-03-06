@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image to Video Converter</string>
+    <string name="browse">Browse File</string>
+    <string name="text_overlay">Text Overlay</string>
+    <string name="select_image">Select Image</string>
+    <string name="clear_all">Clear All</string>
+    <string name="save_image">Save Image</string>
+    <string name="select_audio">Select Audio</string>
+    <string name="enter_text">enter text</string>
+    <string name="start_encode">Start Encode</string>
+    <string name="action_settings">Settings</string>
+    <string name="applyGreyscaleEffect">Apply GreyscaleEffect</string>
+    <string name="my_stories">My Stories</string>
+    <string name="menu_photos">Photo</string>
+    <string name="menu_videos">Videos</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_photo_story">Write Photo Stories</string>
+    <string name="menu_video_story">Write Video Stories</string>
+    <string name="menu_image_effect">Edit Image</string>
+    <string name="menu_facebook">FaceBook</string>
+    <string name="menu_google_plus">Google +</string>
+    <string name="skip_login">skip login</string>
+    <string name="app_id">295410303991957</string>
+    <string name="result_dialog_msg_hint_title">Start Making Videos</string>
+    <string name="result_dialog_msg_hint_createvideo">Long Click Photo to Select</string>
+    <string name="result_dialog_msg_condition">Select audio and video first</string>
+    <string name="result_dialog_msg">Video making started ..... will notify when completed</string>
+    <string name="result_dialog_title">Result</string>
+    <string name="result_dialog_button_text">Thanks!</string>
+    <string name="result_dialog_text_with_id">Posted Open Graph action, id: %1$s</string>
+    <string name="result_dialog_text_default">Post action complete.</string>
+    <string name="result_dialog_text_canceled">Post canceled.</string>
+    <string name="progress_dialog_text">Announcing, please wait...</string>
+    <string name="error_dialog_title">Something Went Wrong</string>
+    <string name="error_dialog_button_text">OK</string>
+    <string name="error_dialog_default_text">No response from server.</string>
+    <string name="no_location_error">Could not obtain your current location</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="error_authentication_retry">An error occurred that requires your attention. %1$s</string>
+    <string name="error_authentication_reopen">An error occurred, please re-login.</string>
+    <string name="error_permission">Please allow us to post on your behalf.</string>
+    <string name="error_server">The server is busy, please retry later.</string>
+    <string name="error_bad_request">An error occurred, please contact the developer with the following message: %1$s</string>
+    <string name="error_unknown">An unknown error occurred, please contact the developer with the following message: %1$s</string>
+    <string name="exception">Exception: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="activity_title">Facebook Albums</string>
+    <string name="photos">Photos</string>
+    <string name="photo">Photo</string>
+    <!-- demo test string -->
+
+    <string name="action_hide">Hide Panel</string>
+    <string name="action_show">Show Panel</string>
+    <string name="action_anchor_enable">Enable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="hello"><![CDATA[<b>The Awesome Sliding Up Panel</b><br/> Brought to you by<br/><a href="http://umanoapp.com">http://umanoapp.com</a>]]></string>
+    <string name="follow"><![CDATA[Follow us<br/>on <a href="http://twitter.com/umanoapp">Twitter</a>]]></string>
+    <string name="action_photo_default">Take one</string>
+    <string name="action_photo_ready">Ready</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="hello_user">Hello %1$s!</string>
+    <string name="success">Success</string>
+
+</resources>

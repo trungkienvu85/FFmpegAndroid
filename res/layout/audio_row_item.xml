@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.ffmpeg.filebrowser.BrowserPhotoCheckableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginRight="10dp"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp" >
+
+    <TextView
+        android:id="@+id/itemCaption"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="10dp"
+        android:ellipsize="end"
+        android:focusable="false"
+        android:singleLine="true"
+        android:textColor="#292929"
+        android:textSize="13sp" />
+
+    <com.android.ffmpeg.filebrowser.BrowserAudioCustomCheckBox
+        android:id="@+id/itemCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:button="@drawable/checkbox"
+        android:focusable="false" />
+
+</com.android.ffmpeg.filebrowser.BrowserPhotoCheckableLayout>

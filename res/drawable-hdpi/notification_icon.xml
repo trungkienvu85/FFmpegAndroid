@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/ic_action_videos"
+        android:duration="500"/>
+    <item
+        android:drawable="@drawable/ic_action_videos_light"
+        android:duration="500"/>
+
+</animation-list>

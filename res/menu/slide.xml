@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_one"
+        android:icon="@drawable/ic_action_home"
+        android:title="@string/my_stories">
+    </item>
+    <item
+        android:id="@+id/item_two"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/menu_photos">
+    </item>
+    <item
+        android:id="@+id/item_three"
+        android:icon="@drawable/ic_action_photo_story"
+        android:title="@string/menu_photo_story">
+    </item>
+    <item
+        android:id="@+id/item_four"
+        android:icon="@drawable/ic_image_effect"
+        android:title="@string/menu_image_effect">
+    </item>
+    <item
+        android:id="@+id/item_five"
+        android:icon="@drawable/com_facebook_inverse_icon"
+        android:title="@string/menu_facebook">
+    </item>
+    <item
+        android:id="@+id/item_six"
+        android:icon="@drawable/common_signin_btn_icon_dark"
+        android:title="@string/menu_google_plus">
+    </item>
+
+</menu>

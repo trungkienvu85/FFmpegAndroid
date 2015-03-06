@@ -1,0 +1,27 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.    -->
+    <style name="AppBaseThemeDisabled" parent="Theme.AppCompat.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.        -->
+    </style>
+
+    <style name="AppBaseThemeEnabled" parent="Theme.AppCompat">
+        <!--
+	            Theme customizations available in newer API levels can go in
+	            res/values-vXX/styles.xml, while customizations related to
+	            backward-compatibility can go here.        -->
+        <item name="windowActionBar">true</item>
+    </style>
+
+    <style name="MyActionBar" parent="AppBaseThemeEnabled">
+        <item name="android:background">#457AB1</item>
+    </style>
+
+    <!-- Application theme. -->
+
+</resources>
